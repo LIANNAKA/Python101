@@ -1,3 +1,5 @@
+This repository contains my **Data Science & Machine Learning** projects, demonstrating practical applications of data analysis, preprocessing, machine learning algorithms, and web scraping through real-world datasets and Python-based implementations.
+
 ## 📂 Contents
 
 ### Machine Learning
